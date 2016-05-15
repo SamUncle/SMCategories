@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D9384AA4-CDBC-4506-AD1B-0E1EC5BA3A0E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SMCategories</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>60E07CA8E2938D64CC100379276E674E6D2C76CB</key>
+		<string>github.com:XiaBaKe/SMCategories.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SMCategories.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>60E07CA8E2938D64CC100379276E674E6D2C76CB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:XiaBaKe/SMCategories.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>60E07CA8E2938D64CC100379276E674E6D2C76CB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>60E07CA8E2938D64CC100379276E674E6D2C76CB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SMCategories</string>
+		</dict>
+	</array>
+</dict>
+</plist>
